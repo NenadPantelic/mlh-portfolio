@@ -1,10 +1,19 @@
-- course: BSc Computer Science
-  institute: University of Birmingham
-  dates: 2018 - 2021
-  logo: uob.png
-  
+- course: BEng Electrical Engineering and Computer Science
+  institute: University of Kragujevac
+  dates: 2015 - 2019
+  logo: uok.png
+
+- course: MEng Electrical Engineering and Computer Science
+  institute: University of Kragujevac
+  dates: 2019 - 2021
+  logo: uok.png
+
+- course: MSc Information Technology
+  institute: University of Kragujevac
+  dates: 2020 - 2022
+  logo: uok.png
+
 - course: Explorer Fellow
   institute: MLH Fellowship
   dates: Fall 2020
   logo: fellowship.svg
-  

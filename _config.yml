@@ -1,13 +1,13 @@
-title: "Will Russell"
-email: fellowship@mlh.io
+title: "Nenad Pantelić"
+email: nenadpantelickg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/" 
-url: "/portfolio-template" 
-twitter_username: mlhacks
-github_username:  mlh-fellowship
+  Portfolio page for my MLH Fellowship journey. I was part of Open-Source track working with forem(dev.to)
+  project. I've used Ruby and Ruby on Rails for the first time. It was an exciting and amazing journey. 
+  See my results here.
+baseurl: "/"
+url: "/mlh-portfolio"
+twitter_username:
+github_username: NenadPantelic
 
 sass:
   sass_dir: _sass
